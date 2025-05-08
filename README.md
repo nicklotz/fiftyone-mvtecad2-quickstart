@@ -3,7 +3,7 @@
 ### Usage
 
 ```
-python main.py \
+python -m mvtec_ad2_pipeline.main \
   --root /path/to/MVTecAD2 \
   --category vial \
   --auto-thresh
