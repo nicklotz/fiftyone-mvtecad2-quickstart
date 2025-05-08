@@ -7,6 +7,6 @@ This program runs a pre-trained Patchcore model against one cateogry of the MVTe
 ```
 python -m mvtec_ad2_pipeline.main \
   --root /path/to/MVTecAD2 \
-  --category vial \
+  --category vial  # or can, bottle, etc. \
   --auto-thresh
 ```
